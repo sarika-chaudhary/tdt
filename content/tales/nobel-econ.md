@@ -1,17 +1,16 @@
 ---
-title: Who Receives Nobel Prize in Economic?
+title: Who Receives a Nobel Prize in Economics?
 date: 2024-10-16
 tags:
   - nobel
   - economics
 ---
-## Introduction
 
-In the 56 years since its inception in 1969, ‘The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel’, popularly known as the Nobel Prize in Economics, has been awarded to 96 scholars. In this article, we examine the gender and geographical location of the recipients using data from the official website of Nobel prize . The study finds that the Nobel prize has historically belonged to men affiliated to departments in the United States of America, with no representation from the third world countries. Rare instances have existed were scholars born in the global south have received the award, but in 84% of the cases, they had by then migrated to the USA and in 12% of the cases to the United Kingdom. There are only a few departments like the University of Chicago (USA) and Massachusetts Institute of Technology (MIT), Cambridge, USA where the award has gone multiple times, thus indicating a close community of researchers engaged in research which has time and again attracted the selection committee (Smith & Ryan, 2024).
+In the 56 years since its inception in 1969, ‘The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel’, popularly known as the Nobel Prize in Economics, has been awarded to 96 scholars. In this article, we examine the gender and geographical location of the recipients using data from the [official website](https://www.nobelprize.org/prizes/lists/all-prizes-in-economic-sciences/ ) of Nobel prize . The study finds that the Nobel prize has historically belonged to men affiliated to departments in the United States of America, with no representation from the third world countries. Rare instances have existed were scholars born in the global south have received the award, but in 84% of the cases, they had by then migrated to the USA and in 12% of the cases to the United Kingdom. There are only a few departments like the University of Chicago (USA) and Massachusetts Institute of Technology (MIT), Cambridge, USA where the award has gone multiple times, thus indicating a close community of researchers engaged in research which has time and again attracted the selection committee (Smith & Ryan, 2024).
 
 While we have data on the gender and country of birth for all the scholars, the data on the affiliation during the time of the award is missing for two recipients of the prize: Gunnar Myrdal (1974) and Friedrich von Hayek (1974). In cases where in the laureate was associated to two departments at the same time, the first mentioned affiliations have been taken here. 
 
-## Gender
+## Gender Imbalance
 
 Till now, there has been only three women who had received the prize: Elinor Ostrom (2009), Esther Duflo (2019) and Claudia Goldin (2023). All the women scholars were parts of departments in the USA at the time of the receipt of the awards, and while two of them were born in USA, one was born in France.
 
@@ -23,7 +22,7 @@ Till now, there has been only three women who had received the prize: Elinor Ost
 
 </center>
 
-## Country
+## US Dominance
 
 USA (male 80.9 percent and female 3.2 percent) accounts for 84 percent of the prizes while USA and Europe (including UK) account for 97.87 of the prizes with the prize never being received by a department in the third world.
 
@@ -35,7 +34,7 @@ USA (male 80.9 percent and female 3.2 percent) accounts for 84 percent of the pr
 
 </center>
 
-## Movement 
+## Migration to the USA
 
 We see that there is a larger distribution or spread as far as the countries of the award winners are concerned. 84 percent of the award winners who had changed countries, were affiliated to American departments when they received their award. The 3 awardees who moved to UK, moved from Cyprus, India and Scotland, and as far as USA is concerned, it had 3 Nobel laurates, whose birth countries were UK. Thus, it becomes clear that it is the USA, and USA alone which has been dominating the list of awardees and hence, setting the course of the debate.
 
@@ -48,7 +47,7 @@ We see that there is a larger distribution or spread as far as the countries of 
 
 </center>
 
-## Department
+## Departmental Concentration within the USA
 
 This section uses data of the current affiliation of the scholar during the time of the award, to analyse the departments that had received the award. A same department being repeated times and again, increases the probability of a future laureate being associated in a close academic network to a past laureate. That networking plays out in academia is well known; this section supports the already known fact (Freeman, Xie, Zhang, & Zhou, 2024).
 
