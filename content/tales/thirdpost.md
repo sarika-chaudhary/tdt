@@ -42,7 +42,7 @@ This section uses data of the current affiliation of the scholar during the time
 
 <center>
 
-**Figure 3: Gender Distribution of the Award Winners**
+**Figure 3: Movement from Country of Birth to the Country of Department**
 
 {% image "sankeymat.png", " " %}
 
@@ -54,7 +54,13 @@ The Chicago School of Economics, the home department of Milton Friedman, which h
 
 <center>
 
-**Figure 4: Gender Distribution of the Award Winners**
+**Figure 4: Distribution across departments in USA**
 
 {% image "department.jpg", " " %}
+
+## References
+
+Smith, K., & Ryan, C. (2024, October 3). How to win a Nobel prize. Nature.
+
+Freeman, B. R., Xie, D., Zhang, H., & Zhou, H. (2024, 25 June). High and Rising       Institutional Concentration of Award-Winning Economists. NBER.
 
