@@ -1,0 +1,4 @@
+"2","r error 4 (Error in fig_caption(""first"") : could not find function ""fig_caption""
+)"
+"0","x <- rnorm(10)"
+"0","plot(x)"
