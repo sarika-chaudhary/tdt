@@ -19,7 +19,7 @@ Till now, there has been only three women who had received the prize: Elinor Ost
 
 **Figure 1: Gender Distribution of the Award Winners**
 
-![](gender.jpg)
+{% image "gender.jpg", " " %}
 
 </center>
 
