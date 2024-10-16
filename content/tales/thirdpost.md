@@ -16,11 +16,9 @@ While we have data on the gender and country of birth for all the scholars, the 
 Till now, there has been only three women who had received the prize: Elinor Ostrom (2009), Esther Duflo (2019) and Claudia Goldin (2023). All the women scholars were parts of departments in the USA at the time of the receipt of the awards, and while two of them were born in USA, one was born in France.
 
 <center>
-
 **Figure 1: Gender Distribution of the Award Winners**
 
 {% image "gender.jpg", " " %}
-
 </center>
 
 ## Country
@@ -28,11 +26,9 @@ Till now, there has been only three women who had received the prize: Elinor Ost
 USA (male 80.9 percent and female 3.2 percent) accounts for 84 percent of the prizes while USA and Europe (including UK) account for 97.87 of the prizes with the prize never being received by a department in the third world.
 
 <center>
-
 **Figure 2: Country of the Department to which the winner was affiliated**
 
 {% image "country.jpg", " " %}
-
 </center>
 
 ## Movement 
@@ -41,11 +37,9 @@ We see that there is a larger distribution or spread as far as the countries of 
 This section uses data of the current affiliation of the scholar during the time of the award, to analyse the departments that had received the award. A same department being repeated times and again, increases the probability of a future laureate being associated in a close academic network to a past laureate. That networking plays out in academia is well known; this section supports the already known fact (Freeman, Xie, Zhang, & Zhou, 2024).
 
 <center>
-
 **Figure 3: Movement from Country of Birth to the Country of Department**
 
 {% image "sankeymat.png", " " %}
-
 </center>
 
 ## Department
@@ -53,12 +47,11 @@ This section uses data of the current affiliation of the scholar during the time
 The Chicago School of Economics, the home department of Milton Friedman, which has been the centre piece of debates, voicing for the free markets has been received the award the maximum number of times, close to 20% of the times the award went to USA, followed by Massachusetts Institute of Technology (MIT), Cambridge, MA, USA. Apart from US universities, University of Cambridge in United Kingdom is the only one that has received multiple awards. 
 
 <center>
-
 **Figure 4: Distribution across departments in USA**
 
 {% image "department.jpg", " " %}
-
 <center>
+
 
 ## References
 
