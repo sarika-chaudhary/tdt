@@ -24,7 +24,7 @@ Till date, there have been only three women who have received the prize: Elinor 
 
 ## The US Dominance
 
-US (male 80.9% and female 3.2%) accounts for 84% of the prizes while US and Europe (including UK) account for 97.87% of the prizes with the prize never been received by a department in the third world.
+US (male 80.9% and female 3.2%) accounts for about 84% of the prizes while US and Europe (including UK) account for 97.87% of the prizes with the prize never been received by a department in the third world.
 
 <center>
 
