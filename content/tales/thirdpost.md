@@ -38,7 +38,7 @@ USA (male 80.9 percent and female 3.2 percent) accounts for 84 percent of the pr
 ## Movement 
 
 We see that there is a larger distribution or spread as far as the countries of the award winners are concerned. 84 percent of the award winners who had changed countries, were affiliated to American departments when they received their award. The 3 awardees who moved to UK, moved from Cyprus, India and Scotland, and as far as USA is concerned, it had 3 Nobel laurates, whose birth countries were UK. Thus, it becomes clear that it is the USA, and USA alone which has been dominating the list of awardees and hence, setting the course of the debate.
-This section uses data of the current affiliation of the scholar during the time of the award, to analyse the departments that had received the award. A same department being repeated times and again, increases the probability of a future laureate being associated in a close academic network to a past laureate. That networking plays out in academia is well known; this section supports the already known fact (Freeman, Xie, Zhang, & Zhou, 2024).
+
 
 <center>
 
@@ -50,7 +50,8 @@ This section uses data of the current affiliation of the scholar during the time
 
 ## Department
 
-The Chicago School of Economics, the home department of Milton Friedman, which has been the centre piece of debates, voicing for the free markets has been received the award the maximum number of times, close to 20% of the times the award went to USA, followed by Massachusetts Institute of Technology (MIT), Cambridge, MA, USA. Apart from US universities, University of Cambridge in United Kingdom is the only one that has received multiple awards. 
+This section uses data of the current affiliation of the scholar during the time of the award, to analyse the departments that had received the award. A same department being repeated times and again, increases the probability of a future laureate being associated in a close academic network to a past laureate. That networking plays out in academia is well known; this section supports the already known fact (Freeman, Xie, Zhang, & Zhou, 2024).
+
 
 <center>
 
