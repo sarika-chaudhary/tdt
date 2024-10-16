@@ -31,7 +31,7 @@ USA (male 80.9 percent and female 3.2 percent) accounts for 84 percent of the pr
 
 **Figure 2: Country of the Department to which the winner was affiliated**
 
-![](country.jpg)
+{% image "country.jpg", " " %}
 
 </center>
 
@@ -44,7 +44,7 @@ This section uses data of the current affiliation of the scholar during the time
 
 **Figure 3: Gender Distribution of the Award Winners**
 
-![](sankeymat.png)
+{% image "sankeymat.png", " " %}
 
 </center>
 
@@ -56,4 +56,5 @@ The Chicago School of Economics, the home department of Milton Friedman, which h
 
 **Figure 4: Gender Distribution of the Award Winners**
 
-![](department.jpg)
+{% image "department.jpg", " " %}
+
