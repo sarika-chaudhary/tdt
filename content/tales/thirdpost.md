@@ -52,6 +52,14 @@ This section uses data of the current affiliation of the scholar during the time
 
 The Chicago School of Economics, the home department of Milton Friedman, which has been the centre piece of debates, voicing for the free markets has been received the award the maximum number of times, close to 20% of the times the award went to USA, followed by Massachusetts Institute of Technology (MIT), Cambridge, MA, USA. Apart from US universities, University of Cambridge in United Kingdom is the only one that has received multiple awards. 
 
+## References
+
+Smith, K., & Ryan, C. (2024, October 3). How to win a Nobel prize. Nature.
+
+Freeman, B. R., Xie, D., Zhang, H., & Zhou, H. (2024, 25 June). High and Rising       Institutional Concentration of Award-Winning Economists. NBER.
+
+
+
 <center>
 
 **Figure 4: Distribution across departments in USA**
@@ -59,11 +67,3 @@ The Chicago School of Economics, the home department of Milton Friedman, which h
 {% image "department.jpg", " " %}
 
 <center>
-
-
-## References
-
-Smith, K., & Ryan, C. (2024, October 3). How to win a Nobel prize. Nature.
-
-Freeman, B. R., Xie, D., Zhang, H., & Zhou, H. (2024, 25 June). High and Rising       Institutional Concentration of Award-Winning Economists. NBER.
-
