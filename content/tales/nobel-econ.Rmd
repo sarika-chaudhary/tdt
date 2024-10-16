@@ -35,7 +35,7 @@ Till now, there has been only three women who had received the prize: Elinor Ost
 
 **Figure 1: Gender Distribution of the Award Winners**
 
-![](graphs/gender.jpg)
+![](gender.jpg)
 
 </center>
 
@@ -47,7 +47,7 @@ USA (male 80.9 percent and female 3.2 percent) accounts for 84 percent of the pr
 
 **Figure 2: Country of the Department to which the winner was affiliated**
 
-![](graphs/country.jpg)
+![](country.jpg)
 
 </center>
 
@@ -60,7 +60,7 @@ This section uses data of the current affiliation of the scholar during the time
 
 **Figure 3: Gender Distribution of the Award Winners**
 
-![](graphs/sankeymat.png)
+![](sankeymat.png)
 
 </center>
 
@@ -72,7 +72,7 @@ The Chicago School of Economics, the home department of Milton Friedman, which h
 
 **Figure 4: Gender Distribution of the Award Winners**
 
-![](graphs/department.jpg)
+![](department.jpg)
 
 </center>
 
