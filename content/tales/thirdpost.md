@@ -58,6 +58,8 @@ The Chicago School of Economics, the home department of Milton Friedman, which h
 
 {% image "department.jpg", " " %}
 
+<center>
+
 ## References
 
 Smith, K., & Ryan, C. (2024, October 3). How to win a Nobel prize. Nature.
