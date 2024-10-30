@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="{{ metadata.language }}">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>{% if title %}{{ title +' | '+ metadata.title }}{% else %}{{ metadata.title }}{% endif %}</title> 
+		<meta name="description" content="{{ description or metadata.description }}">
+
+		{# OPEN GRAPH #}
+		<meta property="og:site_name" content="{{ metadata.title }}">
+		<meta property="og:title" content="{{ title or metadata.title }}">
+		<meta property="og:type" content="{% if title %}{{ article }}{% else %}{{ metadata.title }}{% endif %}">  {# should be "{{ article or website }}" #}
+		<meta property="og:image" itemprop="image" content="{{ featuredImage or metadata.defaultImage }}">
+		<meta property="og:image:secure_url" content="{{ featuredImage or metadata.defaultImage }}">
+		<meta property="og:url" content="{{ page.url | htmlBaseUrl }}">
+
+		{#- Atom and JSON feeds included by default #}
+		<link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="{{ metadata.title }}">
+		<link rel="alternate" href="/feed/feed.json" type="application/json" title="{{ metadata.title }}">
+
+		<script src="//code.iconify.design/1/1.0.6/iconify.min.js"></script>
+		<link rel="stylesheet" href="/css/tw-output.css">
+		{%- css %}{% include "public/css/style.css" %}{% endcss %}
+		<style>{% getBundle "css" %}</style>
+
+		<script src="https://code.jquery.com/jquery-3.7.0.min.js" integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" crossorigin="anonymous"></script>
+		{%- js %}{% include "public/js/script.js" %}{% endjs %}
+		<script>{% getBundle "js" %}</script>
+
+		<link rel="shortcut icon" type="image/x-icon" href="{{ metadata.favicon.favicon_ico }}">
+		<link rel="icon" type="image/svg+xml" href="{{ metadata.favicon.favicon_svg }}">
+		<link rel="icon" type="image/png" href="{{ metadata.favicon.favicon_png }}">
+		<link rel="apple-touch-icon" href="{{ metadata.favicon.favicon_apple_touch_icon }}" sizes="180x180">
+	</head>
+	<body>
+		<body class="bg-gray-100 text-gray-700 relative">
+		<a href="#skip" class="visually-hidden">Skip to main content</a>
+
+		<header class="bg-gray-300 relative">
+			<div class="container mx-auto px-10 max-w-screen-lg  flex items-center justify-between py-2 md:py-0">
+				<a href="/" class="home-link w-12"><img eleventy:ignore src="/img/logo.svg" alt="{{ metadata.title }}" ></a>
+				<button class="mobile-nav-btn md:hidden" type="button" title="nav menu">
+					<span class="iconify text-xl nav-show" data-icon="mdi-dots-vertical"></span>
+					<span class="iconify text-xl nav-close hidden" data-icon="mdi-close"></span>
+				</button>
+				<nav class="mobile bg-gray-300 px-4 py-3 absolute z-10 top-full right-0 w-full hidden md:block md:relative md:w-auto">
+					<h2 class="visually-hidden">Top level navigation menu</h2>
+					<ul class="nav uppercase text-xs font-bold text-right md:flex gap-5">
+						{%- for entry in collections.all | eleventyNavigation %}
+							<li class="nav-item my-2 {{ 'active' if entry.url in page.url and entry.url != '/' or page.url == entry.url }}"><a class="inline-block py-1 px-2" href="{{ entry.url }}" {% if entry.url == page.url %} aria-current="page"{% endif %}>{{ entry.title }}</a></li>
+						{%- endfor %}
+					</ul>
+				</nav>
+			</div>
+		</header>
+
+		<main id="skip" class="container mx-auto p-10 max-w-screen-lg min-h-screen">
+			{{ content | safe }}
+		</main>
+
+		<footer class="text-center p-2 bg-gray-300">Copyright <a class="font-bold hover:underline" href="/">{{ metadata.title }}</a> &copy; 2024.</footer>
+
+		<!-- This page `{{ page.url | htmlBaseUrl }}` was built on {% currentBuildDate %} -->
+		<script type="module" src="{% getBundleFileUrl "js" %}"></script>
+	</body>
+</html>

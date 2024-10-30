@@ -1,0 +1,70 @@
+---
+layout: layouts/base.njk
+featuredImage: https://myvdronline.com/wp-content/uploads/2022/05/What-are-the-significant-advantages-of-data-room-solution2-768x511.jpg
+---
+{# Only include the syntax highlighter CSS on blog posts, included with the CSS per-page bundle #}
+{%- css %}{% include "node_modules/prismjs/themes/prism-okaidia.css" %}{% endcss %}
+{%- css %}{% include "public/css/prism-diff.css" %}{%- endcss %}
+
+<h1 class="font-bold text-4xl text-center leading-snug mt-10 mb-5">{{ title }}</h1>
+
+<div class="text-sm font-medium text-center">
+	<div class="mb-5 font-bold">
+		<time class="" datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate("dd LLL yyyy") }}</time>
+		&middot;
+		<span>{% if author %}{{ author }}{% else %} TDT Team {% endif %}</span>
+	</div>
+	<div class="mb-10 flex flex-wrap gap-2 justify-center text-xs">
+		{%- for tag in tags | filterTagList %}
+		{%- set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
+			<a href="{{ tagUrl }}" class="post-tag bg-red-300  text-red-800 py-0.5 italic px-2 rounded">{{ tag }}</a>
+		{%- endfor %}
+	</div>
+</div>
+<img src="{{ featuredImage }}" alt="" class="w-full max-h-96 rounded-3xl object-cover mb-10">
+<div class="prose mx-auto">{{ content | safe }}</div>
+
+<hr class="my-10 border-black">
+
+{%- if collections.blog %}
+{%- set previousPost = collections.blog | getPreviousCollectionItem %}
+{%- set nextPost = collections.blog | getNextCollectionItem %}
+{%- if nextPost or previousPost %}
+<div class="flex justify-between mb-10">
+	{%- if previousPost %}
+		<a class="" href="{{ previousPost.url }}">
+			<span class="block text-xs">Prev Blog</span>
+			<span class="block font-bold text-sm">{{ previousPost.data.title }}</span>
+		</a>
+	{% endif %}
+	{%- if nextPost %}
+		<a class="" href="{{ nextPost.url }}">
+			<span class="block text-xs text-right">Next Blog</span>
+			<span class="block font-bold text-sm text-right" >{{ nextPost.data.title }}</span>
+		</a>
+	{% endif %}
+</div>
+{%- endif %}
+{%- endif %}
+
+
+{%- if collections.tale %}
+{%- set previousPost = collections.tale | getPreviousCollectionItem %}
+{%- set nextPost = collections.tale | getNextCollectionItem %}
+{%- if nextPost or previousPost %}
+<div class="flex justify-between mb-10">
+	{%- if previousPost %}
+		<a class="" href="{{ previousPost.url }}">
+			<span class="block text-xs">Prev Tale</span>
+			<span class="block font-bold text-sm">{{ previousPost.data.title }}</span>
+		</a>
+	{% endif %}
+	{%- if nextPost %}
+		<a class="" href="{{ nextPost.url }}">
+			<span class="block text-xs text-right">Next Tale</span>
+			<span class="block font-bold text-sm text-right" >{{ nextPost.data.title }}</span>
+		</a>
+	{% endif %}
+</div>
+{%- endif %}
+{%- endif %}
