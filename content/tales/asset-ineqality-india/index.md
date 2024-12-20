@@ -2,7 +2,7 @@
 title: Inequality in India - The Story of Asset Distribution
 date: 2024-12-20
 tags:
-  - ineqality
+  - inequality
   - asset
   - india
 featuredImage: https://149356667.v2.pressablecdn.com/wp-content/uploads/2020/12/2-miller-tuca-aerial-photos-of-sao-paolo.jpg
