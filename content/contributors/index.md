@@ -13,15 +13,15 @@ eleventyNavigation:
 
 <div id="maincontent" class="container mx-auto px-8 grid lg:grid-cols-3 place-content-center justify-items-center gap-10 mb-10">
 	<a target="_blank" href="https://twitter.com/KarBriti" class="flex items-center gap-10 border border-gray-300 shadow-md px-10 py-8 rounded-xl w-full max-w-[25rem]">
-    <img class="w-10" src="https://api.multiavatar.com/1.svg" alt="" >
+    <img class="w-12 rounded-full" src="https://cdn.jsdelivr.net/gh/alohe/memojis/png/vibrent_4.png" alt="" >
     <h3 class="font-medium text-lg">Briti Kar</h3>
   </a>
 	<a target="_blank" href="https://twitter.com/princekumar037" class="flex items-center gap-10 border border-gray-300 shadow-md px-10 py-8 rounded-xl w-full max-w-[25rem]">
-    <img class="w-10" src="https://api.multiavatar.com/2.svg" alt="" >
+    <img class="w-12 rounded-full" src="https://cdn.jsdelivr.net/gh/alohe/memojis/png/vibrent_7.png" alt="" >
     <h3 class="font-medium text-lg">Prince Kumar</h3>
   </a>
 	<a target="_blank" href="https://twitter.com/sarika_jnu" class="flex items-center gap-10 border border-gray-300 shadow-md px-10 py-8 rounded-xl w-full max-w-[25rem]">
-    <img class="w-10" src="https://api.multiavatar.com/3.svg" alt="" >
+    <img class="w-12 rounded-full" src="https://cdn.jsdelivr.net/gh/alohe/memojis/png/vibrent_4.png" alt="" >
     <h3 class="font-medium text-lg">Sarika Chaudhary</h3>
   </a>
 </div>

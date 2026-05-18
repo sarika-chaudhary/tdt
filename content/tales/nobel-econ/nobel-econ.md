@@ -4,6 +4,7 @@ date: 2024-10-16
 tags:
   - nobel
   - economics
+featuredImage: https://upload.wikimedia.org/wikipedia/en/e/ed/Nobel_Prize.png
 ---
 
 In the 56 years since its inception in 1969, ‘The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel’, popularly known as the Nobel Prize in Economics, has been awarded to 96 scholars. In this article, we examine the gender and geographical location of the recipients using data from the [official website](https://www.nobelprize.org/prizes/lists/all-prizes-in-economic-sciences/ ) of Nobel prize . The study finds that the Nobel prize has historically belonged to men affiliated to institutions in the United States of America, with no representation from third world countries. Rare instances have existed were scholars born in the global south have received the award, but in 84% of the cases, they had by then migrated to the USA and in 12% of the cases to the United Kingdom. There are only a few departments like the University of Chicago (US) and Massachusetts Institute of Technology (MIT), Cambridge, US where the award has gone multiple times, thus indicating a close community of researchers engaged in research which has time and again attracted the selection committee (Smith & Ryan, 2024).

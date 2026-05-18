@@ -58,7 +58,7 @@ e.g. `[Tiny Data Tales](https://www.tinydatatales.com)` → [Tiny Data Tales](ht
 
 ### Image
 To insert an image, put the image alt text inside `![]` followed by path or url of the image inside `()` <br>
-e.g. `![TDT logo](https://www.tinydatatales.com/img/logo.svg)` → ![TDT logo](https://www.tinydatatales.com/img/logo.svg)
+e.g. `![Wikipedia logo](https://upload.wikimedia.org/wikipedia/commons/d/d1/Wikipedia_logo_v2_en_on_white_background.svg)` → ![Wikipedia logo](https://upload.wikimedia.org/wikipedia/commons/d/d1/Wikipedia_logo_v2_en_on_white_background.svg)
 
 ### Horizontal rule
 To create a horizontal rule or divider, put three or more `***` or `---` or `___`
@@ -87,4 +87,5 @@ Numbered list : <br>
 - Original [post](https://daringfireball.net/projects/markdown/) of John Gruber introducing markdown. 
 - [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/) (stick with basic syntax or learn additional syntax when you feel ready)
 - [Github flavoured markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) adds additional syntax for making documentation on Github more robust
+
 - Read another tech blogger taking a dig at WhatsApp (and others) for not conforming to the markdown syntax: [WhatsApp and Markdown-ish?](https://blog.pesky.moe/posts/2023-09-18-markdown-chat/)
