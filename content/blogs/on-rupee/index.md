@@ -23,7 +23,7 @@ The first change in happening in the current account. Components of the current 
 
 <center>
   
-Figure 1: Demand and supply shifts in foreign exchange market due to oil price shock[^6]
+**Figure 1: Demand and supply shifts in foreign exchange market due to oil price shock[^6]**
   
 ![Figure 1](/blogs/on-rupee/graph.jpg)
 
