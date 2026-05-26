@@ -8,7 +8,7 @@ tags:
 featuredImage: /blogs/on-rupee/md.jpg  
 ---
 
-The closure of the Strait of Hormuz in the aftermath of the United States' attack on Iran has led to a massive disruption in the world economy as it is a crucial trade route with the middle east for oil and natural gas.  As of 2025, around 25 per cent of the world's sea borne oil trade and 19 per cent of the global Liquified Natural Gas (LNG) trade passed through the Strait of Hormuz[^1] and this closure is shooting the price of crude upwards in the short term and causing energy shortages. The monthly closing price of Brent crude oil shot up from $71.32 in February 2026 to $126.69 in March 2026[^2] , and experts predict that the price of crude might cross $200 / barrel [^3]. 
+The closure of the Strait of Hormuz in the aftermath of the United States' attack on Iran has led to a massive disruption in the world economy as it is a crucial trade route with the middle east for oil and natural gas.  As of 2025, around 25 per cent of the world's sea borne oil trade and 19 per cent of the global Liquified Natural Gas (LNG) trade passed through the Strait of Hormuz <sup><a href="#foot1">1</a></sup> and this closure is shooting the price of crude upwards in the short term and causing energy shortages. The monthly closing price of Brent crude oil shot up from $71.32 in February 2026 to $126.69 in March 2026[^2] , and experts predict that the price of crude might cross $200 / barrel [^3]. 
 
 For India, which is the third largest oil importer and consumer in the world, this rise in international crude prices has put upward pressure on the domestic prices of oil, threatening an inflation in the economy. The Indian government was keeping the prices of petrol and diesel stable in the economy until the 14th of May after which there was a hike in both by over 3 percent. Ever since, the oil prices have been hiked for the fourth time on the 25th of May 2026[^4] , i.e. within a span of 11 days.  This is accompanied by a sharp fall in the value of rupee which further increases the effective price of oil for India, aggravating the inflationary pressures. In this article we explore the mechanism through which the value of rupee with respect to the dollar is determined and the effects of a rise in crude prices and flow-out of foreign investments in this value.
 
@@ -34,7 +34,10 @@ The second change is happening in the capital account, which records transaction
 
 This combination of a fall in supply and a rise in demand for dollars has increased the exchange rate, putting downward pressure on the rupee. 
 
-### End notes
+#### Footnotes
+
+<p id="foot1" class="text-xs"><sup>1</sup> International Energy Agency. Strait of Hormuz. https://www.iea.org/about/oil-security-and-emergency-response/strait-of-hormuz.</p>
+
 
 [^1]: International Energy Agency. Strait of Hormuz. https://www.iea.org/about/oil-security-and-emergency-response/strait-of-hormuz
 
