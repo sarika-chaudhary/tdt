@@ -21,9 +21,7 @@ The demand for dollars depends on the demand for imports and the demand for fore
 
 The first change in happening in the current account. Components of the current account include imports and exports of goods and services and transfers like gifts, remittances etc. The closure of the Strait of Hormuz led to a sharp decline in the supply of crudes and shot up their international prices. Although import of crude has fallen slightly by 4.3% in April 2026 (compared to April 2025), the import bill of crudes has increased by 50 percentage[^5] . Even after lower imports of crude oil, India needs more dollars. Thus, the dollars required to buy crude from the international market have increased from D1 to D2 (Figure 1).	 
 
-![Figure 1: Demand and supply shifts in foreign exchange market due to oil price shock](/blogs/on-rupee/graph.jpg)
-
-![Figure 1: An increase in the price of dollar caused by rise in demand and fall on supply of dollars.[^6]] (content/blogs/on-rupee/graph.jpg)
+![Figure 1: Demand and supply shifts in foreign exchange market due to oil price shock](/blogs/on-rupee/graph.jpg)[^6]
 
 
 The second change is happening in the capital account, which records transactions in the financial market. Since the capital account consists of investment in the form of FDI and FII, it is much more volatile driven by speculations of investors (domestic and foreign). An investor would invest in any particular asset if the expected return on that investment (domestic/foreign) is more than on other forms of investment and more than the liquidity premium of money. With institutional investment it becomes possible to buy and sell any assets across the borders within the fractions of a few seconds. Hence finance keeps on moving, coming from one stock in one country to another stock in another country to maximise the returns.  If a foreign investor invests money in the Indian economy, the supply of dollar increases in the Indian economy and vice-versa. In recent times, there has been an outflow of foreign institutional investment from India driven by speculations[^7]  .  This has led to a fall in the supply of dollars from S1 to S2 (Figure 1) available to India.
@@ -33,17 +31,25 @@ This combination of a fall in supply and a rise in demand for dollars has increa
 
 ### End notes
 
-[^1]: International Energy Agency. (n.d.). Strait of Hormuz. IEA. https://www.iea.org/about/oil-security-and-emergency-response/strait-of-hormuz  
-[^2]: Data on Brent Crude prices retrieved from: https://www.macrotrends.net/2480/brent-crude-oil-prices-10-year-daily-chart
-[^3]: The Economic Times. (2026, May 24). India can't escape global oil shock; fuel prices hurting economy, says former BPCL exec. The Economic Times. https://economictimes.indiatimes.com/industry/energy/oil-gas/india-cant-escape-global-oil-shock-fuel-prices-hurting-economy-says-former-bpcl-exec/articleshow/131292025.cms 
-[^4]: Ghosh, S. (2026, May 25). Petrol, diesel prices hiked for fourth time in ten days; latest by about ₹2.8 per litre. The Hindu 
-[^5]: Ghosh, S. (2026, May 20). India imported 4.3% less crude oil in April this year, yet the bill still doubled as prices soar. The Hindu.
-[^6]: The quantity can settle anywhere depending in the relative movements of demand and supply, but the price will rise.
-[^7]: Moreover, the central banks are already dreading inflationary pressure, and hence in such situations, it cannot raise interest rates to attract foreign investments.  This leads to a further rise in the price of dollars in terms of rupee or a fall in the value of rupee (depreciation).
-(Menon, R. (2026, January 28). Should the rupee be left to depreciate. The Hindu. https://www.thehindu.com/business/Economy/should-the-rupee-be-left-to-depreciate/article71007759.ece). 
-Patnaik, P. (2026, March 28). Anatomy of rupee’s fall! NewsClick. NewsClick 
-Patnaik, P. (2026, March 30). The falling rupee. MR Online. MR Online
-Patnaik, P. (2026, May 23). Neo-liberal chickens are coming home to roost. NewsClick. NewsClick
+[^1]: International Energy Agency. Strait of Hormuz. https://www.iea.org/about/oil-security-and-emergency-response/strait-of-hormuz
+
+[^2]: MacroTrends. Brent Crude Oil Prices. https://www.macrotrends.net/2480/brent-crude-oil-prices-10-year-daily-chart
+
+[^3]: The Economic Times (2026, May 24). India can't escape global oil shock; fuel prices hurting economy. https://economictimes.indiatimes.com/industry/energy/oil-gas/india-cant-escape-global-oil-shock-fuel-prices-hurting-economy-says-former-bpcl-exec/articleshow/131292025.cms
+
+[^4]: Ghosh, S. (2026, May 25). Petrol, diesel prices hiked for fourth time in ten days. The Hindu.
+
+[^5]: Ghosh, S. (2026, May 20). India imported 4.3% less crude oil in April this year. The Hindu.
+
+[^6]: The quantity can settle anywhere depending on relative movements of demand and supply, but price will rise.
+
+[^7]: Menon, R. (2026, January 28). Should the rupee be left to depreciate. The Hindu. https://www.thehindu.com/business/Economy/should-the-rupee-be-left-to-depreciate/article71007759.ece
+
+Patnaik, P. (2026, March 28). Anatomy of rupee’s fall. NewsClick.
+
+Patnaik, P. (2026, March 30). The falling rupee. MR Online.
+
+Patnaik, P. (2026, May 23). Neo-liberal chickens are coming home to roost. NewsClick.
 
 
 
