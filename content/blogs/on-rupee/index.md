@@ -20,12 +20,14 @@ Economic theory tells us that when there's an increase in demand for a commodity
 The demand for dollars depends on the demand for imports and the demand for forex for investing abroad - in the form of FDI (Foreign Direct Investment) and FII (Foreign Institutional Investment) - flowing out of India. The supply of dollars would depend on the demand for Indian exports and the inflow of forex, through inflow of FDI and FII to India. While imports and exports of goods and services form a part of the current account, FDI and FII are part of the capital account.  There are two changes happening in the demand and supply chain.    
 
 The first change in happening in the current account. Components of the current account include imports and exports of goods and services and transfers like gifts, remittances etc. The closure of the Strait of Hormuz led to a sharp decline in the supply of crudes and shot up their international prices. Although import of crude has fallen slightly by 4.3% in April 2026 (compared to April 2025), the import bill of crudes has increased by 50 percentage[^5] . Even after lower imports of crude oil, India needs more dollars. Thus, the dollars required to buy crude from the international market have increased from D1 to D2 (Figure 1).	 
+
 <center>
+  
 Figure 1: Demand and supply shifts in foreign exchange market due to oil price shock[^6]
   
 ![Figure 1](/blogs/on-rupee/graph.jpg)
 
-<center>
+</center>
 
 The second change is happening in the capital account, which records transactions in the financial market. Since the capital account consists of investment in the form of FDI and FII, it is much more volatile driven by speculations of investors (domestic and foreign). An investor would invest in any particular asset if the expected return on that investment (domestic/foreign) is more than on other forms of investment and more than the liquidity premium of money. With institutional investment it becomes possible to buy and sell any assets across the borders within the fractions of a few seconds. Hence finance keeps on moving, coming from one stock in one country to another stock in another country to maximise the returns.  If a foreign investor invests money in the Indian economy, the supply of dollar increases in the Indian economy and vice-versa. In recent times, there has been an outflow of foreign institutional investment from India driven by speculations[^7]  .  This has led to a fall in the supply of dollars from S1 to S2 (Figure 1) available to India.
 
