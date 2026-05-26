@@ -21,7 +21,7 @@ The demand for dollars depends on the demand for imports and the demand for fore
 
 The first change in happening in the current account. Components of the current account include imports and exports of goods and services and transfers like gifts, remittances etc. The closure of the Strait of Hormuz led to a sharp decline in the supply of crudes and shot up their international prices. Although import of crude has fallen slightly by 4.3% in April 2026 (compared to April 2025), the import bill of crudes has increased by 50 percentage[^5] . Even after lower imports of crude oil, India needs more dollars. Thus, the dollars required to buy crude from the international market have increased from D1 to D2 (Figure 1).	 
 
-![Figure 1: An increase in the price of dollar caused by rise in demand and fall in supply of dollars](/blogs/on-rupee/graph.png)
+![Figure 1: Demand and supply shifts in foreign exchange market due to oil price shock](/blogs/on-rupee/graph.jpg)
 
 ![Figure 1: An increase in the price of dollar caused by rise in demand and fall on supply of dollars.[^6]] (content/blogs/on-rupee/graph.jpg)
 
