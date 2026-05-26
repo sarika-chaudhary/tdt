@@ -33,13 +33,13 @@ This combination of a fall in supply and a rise in demand for dollars has increa
 
 ### End notes
 
-[^1]: (International Energy Agency. (n.d.). Strait of Hormuz. IEA. https://www.iea.org/about/oil-security-and-emergency-response/strait-of-hormuz)  
+[^1]: International Energy Agency. (n.d.). Strait of Hormuz. IEA. https://www.iea.org/about/oil-security-and-emergency-response/strait-of-hormuz  
 [^2]: Data on Brent Crude prices retrieved from: https://www.macrotrends.net/2480/brent-crude-oil-prices-10-year-daily-chart
-[^3]:The Economic Times. (2026, May 24). India can't escape global oil shock; fuel prices hurting economy, says former BPCL exec. The Economic Times. https://economictimes.indiatimes.com/industry/energy/oil-gas/india-cant-escape-global-oil-shock-fuel-prices-hurting-economy-says-former-bpcl-exec/articleshow/131292025.cms 
-[^4]:Ghosh, S. (2026, May 25). Petrol, diesel prices hiked for fourth time in ten days; latest by about ₹2.8 per litre. The Hindu 
-[^5]:Ghosh, S. (2026, May 20). India imported 4.3% less crude oil in April this year, yet the bill still doubled as prices soar. The Hindu. The Hindu article
-[^6]The quantity can settle anywhere depending in the relative movements of demand and supply, but the price will rise.
-[^7]:Moreover, the central banks are already dreading inflationary pressure, and hence in such situations, it cannot raise interest rates to attract foreign investments.  This leads to a further rise in the price of dollars in terms of rupee or a fall in the value of rupee (depreciation).
+[^3]: The Economic Times. (2026, May 24). India can't escape global oil shock; fuel prices hurting economy, says former BPCL exec. The Economic Times. https://economictimes.indiatimes.com/industry/energy/oil-gas/india-cant-escape-global-oil-shock-fuel-prices-hurting-economy-says-former-bpcl-exec/articleshow/131292025.cms 
+[^4]: Ghosh, S. (2026, May 25). Petrol, diesel prices hiked for fourth time in ten days; latest by about ₹2.8 per litre. The Hindu 
+[^5]: Ghosh, S. (2026, May 20). India imported 4.3% less crude oil in April this year, yet the bill still doubled as prices soar. The Hindu.
+[^6]: The quantity can settle anywhere depending in the relative movements of demand and supply, but the price will rise.
+[^7]: Moreover, the central banks are already dreading inflationary pressure, and hence in such situations, it cannot raise interest rates to attract foreign investments.  This leads to a further rise in the price of dollars in terms of rupee or a fall in the value of rupee (depreciation).
 (Menon, R. (2026, January 28). Should the rupee be left to depreciate. The Hindu. https://www.thehindu.com/business/Economy/should-the-rupee-be-left-to-depreciate/article71007759.ece). 
 Patnaik, P. (2026, March 28). Anatomy of rupee’s fall! NewsClick. NewsClick 
 Patnaik, P. (2026, March 30). The falling rupee. MR Online. MR Online
