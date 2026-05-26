@@ -35,7 +35,7 @@ This combination of a fall in supply and a rise in demand for dollars has increa
 
 ## Bibliography
 
-- Menon, R. (2026, January 28). Should the rupee be left to depreciate. The Hindu. https://www.thehindu.com/business/Economy/should-the-rupee-be-left-to-depreciate/article71007759.ece
+- Menon, R. (2026, January 28). *Should the rupee be left to depreciate*. The Hindu. [Link](https://www.thehindu.com/business/Economy/should-the-rupee-be-left-to-depreciate/article71007759.ece)
 - Patnaik, P. (2026, March 28). Anatomy of rupee’s fall. NewsClick.
 - Patnaik, P. (2026, March 30). The falling rupee. MR Online.
 - Patnaik, P. (2026, May 23). Neo-liberal chickens are coming home to roost. NewsClick. 
